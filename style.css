@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+}
+.hi{
+    font-size:15px;
+}
+canvas{
+    box-shadow:5px 5px 5px #73cfd8 ;
+    border-radius:50px;
+    border: 5px solid white;
+    border-width: 5px;
+    background-color:#000000;
+}
+.note{
+    font-size:10px;
+    color:black;
+}
+.heading{
+    width:100%;
+    margin:0;
+    font-size: 15px;
+}
